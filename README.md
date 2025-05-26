@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anil Suryavanshi</h1>
+<h3 align="center">A passionate Web Developer | React & Java Backend Enthusiast</h3>
 
-<!--
-**AnilSuryavanshi1998/AnilSuryavanshi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 I’m currently working on building full-stack web apps using **React + Java Backend**
 
-Here are some ideas to get you started:
+- 💡 Exploring AI/ML & Python alongside Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Looking for Frontend/Backend Developer roles in tech startups or MNCs
+
+- 📫 How to reach me: **anilsuryavanshilpsss@gmail.com**
+
+- 🌱 I’m currently learning **Tailwind CSS**, **Git**, and **System Design**
+
+- 🚀 2025 Goal: Land a high-paying job in IT and start preparing for UPSC 2026
+
+---
+
+### 🛠️ Tech Stack:
+
+- 💻 Languages: HTML, CSS, JavaScript, Java, Python  
+- 🌐 Frontend: React.js, TailwindCSS  
+- 🛢️ Backend: Core Java, (Spring Boot - Learning Soon)  
+- 🔧 Tools: Git, GitHub, VS Code, Postman  
+
+---
+
+### 📊 GitHub Stats:
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilsuryavanshi1998&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me:
+- Email: anilsuryavanshilpsss@gmail.com  
+- LinkedIn: *Add soon for job visibility*
+
