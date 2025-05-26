@@ -7,7 +7,7 @@
 
 - 💼 Looking for Frontend/Backend Developer roles in tech startups or MNCs
 
-- 📫 How to reach me: **anilsuryavanshilpsss@gmail.com**
+- 📫 How to reach me: **anilsuryavanshilpss@gmail.com**
 
 - 🌱 I’m currently learning **Tailwind CSS**, **Git**, and **System Design**
 
