@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS**, **Git**, and **System Design**
 
-- 🚀 2025 Goal: Land a high-paying job in IT and start preparing for UPSC 2026
+- 🚀 2025 Goal: Land a high-paying job in IT 
 
 ---
 
@@ -30,6 +30,6 @@
 ---
 
 ### 📫 Connect with me:
-- Email: anilsuryavanshilpsss@gmail.com  
+- Email: anilsuryavanshilpss@gmail.com  
 - LinkedIn: *Add soon for job visibility*
 
