@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anil Suryavanshi</h1>
-<h3 align="center">A passionate Web Developer | React & Java Backend Enthusiast</h3>
+<h3 align="center">A passionate Web Developer | React js</h3>
 
 - 🎯 I’m currently working on building full-stack web apps using **React + Java Backend**
 
-- 💡 Exploring AI/ML & Python alongside Web Development
 
 - 💼 Looking for Frontend/Backend Developer roles in tech startups or MNCs
 
@@ -17,10 +16,10 @@
 
 ### 🛠️ Tech Stack:
 
-- 💻 Languages: HTML, CSS, JavaScript, Java, Python  
+- 💻 Languages: HTML, CSS, JavaScript
 - 🌐 Frontend: React.js, TailwindCSS  
-- 🛢️ Backend: Core Java, (Spring Boot - Learning Soon)  
-- 🔧 Tools: Git, GitHub, VS Code, Postman  
+- 🛢️ Backend:  Learning Soon)  
+- 🔧 Tools: Git, GitHub, VS Code 
 
 ---
 
